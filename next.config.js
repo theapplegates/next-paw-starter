@@ -6,4 +6,8 @@ module.exports = withPWA({
 		dest: 'public',
 		runtimeCaching,
 	},
+	images: {
+	  domains: ['applegate-paul.mo.cloudinary.net'],
+	  formats: ['image/avif', 'image/webp']
+	}
 })
