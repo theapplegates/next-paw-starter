@@ -87,4 +87,22 @@ const links = [
 			</svg>
 		),
 	},
+	{
+		label: 'Misc',
+		href: '/misc',
+		icon: (
+			<svg
+				viewBox='0 0 15 15'
+				fill='none'
+				xmlns='http://www.w3.org/2000/svg'
+				width='18'
+				height='18'
+			>
+				<path
+					d='M0 7.5h15m-10.5 5h6m-6 0a3 3 0 01-3-3v-6a3 3 0 013-3h2V2m-2 10.5V15m6-2.5a3 3 0 003-3v-2m-3 5V15M5 3.5h3'
+					fill='currentColor'
+				/>
+			</svg>
+		),
+	},
 ]
